@@ -1,0 +1,230 @@
+[
+    {
+        "model": "crud_app.Eventdetails",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "event": "event 1"
+          
+        }
+    },
+    {
+        "model": "crud_app.Jobrequisition",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "job_position": "backend developer"
+        }
+        
+    },
+    {
+        "model": "crud_app.Jobrequisition",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "job_position": "front end developer"
+        }
+        
+    },
+    {
+        "model": "crud_app.Persona",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "persona": "leaner"
+          
+        }
+    },
+    {
+        "model": "crud_app.Screeningmode",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "screening_mode": "offline"
+          
+        }
+    },
+    {
+        "model": "crud_app.Screeningmode",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "screening_mode": "online"
+          
+        }
+    },
+    {
+        "model": "crud_app.Gender",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "gender": "male"
+          
+        }
+    },
+    {
+        "model": "crud_app.Gender",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "gender": "female"
+          
+        }
+    },
+    {
+        "model": "crud_app.Gender",
+        "pk": 3,
+        "fields": {
+            "id": "3",
+            "gender": "others"
+          
+        }
+    },
+    {
+        "model": "crud_app.Maritalstatus",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "marital_status": "single"
+          
+        }
+    },
+    {
+        "model": "crud_app.Maritalstatus",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "marital_status": "married"
+          
+        }
+    },
+    {
+        "model": "crud_app.Employeedirectory",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "referred_by": "directory 1"
+          
+        }
+    },
+    {
+        "model": "crud_app.City",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "city": "bangalore"
+          
+        }
+    },
+    {
+        "model": "crud_app.City",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "city": "coimbatore"
+          
+        }
+    },
+    {
+        "model": "crud_app.Experiencelevel",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "experience_level": "1 year"
+          
+        }
+    },
+    {
+        "model": "crud_app.Experiencelevel",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "experience_level": "2 year"
+          
+        }
+    },
+    {
+        "model": "crud_app.Educationlevel",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "education_level": "Bachelor"
+          
+        }
+    },
+    {
+        "model": "crud_app.Educationlevel",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "education_level": "Masters"
+          
+        }
+    },
+
+    {
+        "model": "crud_app.Educationqualification",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "education_qualification": "degree"
+          
+        }
+    },
+    {
+        "model": "crud_app.Educationspecialization",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "education_specialization": "computer science"
+          
+        }
+    },
+    {
+        "model": "crud_app.Educationspecialization",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "education_specialization": "maths"
+          
+        }
+    },
+    {
+        "model": "crud_app.Source",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "education_institution": "anna university",
+            "source":"cbe"
+          
+        }
+    },
+    {
+        "model": "crud_app.Source",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "education_institution": "bharathiyar university",
+            "source":"cbe"
+          
+        }
+    },
+    {
+        "model": "crud_app.Reasonforchange",
+        "pk": 1,
+        "fields": {
+            "id": "1",
+            "reason_for_change": "to upgrade myself"
+          
+        }
+    },
+    {
+        "model": "crud_app.Reasonforchange",
+        "pk": 2,
+        "fields": {
+            "id": "2",
+            "reason_for_change": "others"
+          
+        }
+    }
+]
